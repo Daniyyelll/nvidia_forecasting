@@ -1,1 +1,1 @@
-# nvidia_forecasting
+# NVIDIA Stock Prices Forecasting
